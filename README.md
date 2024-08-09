@@ -1,3 +1,3 @@
 Form Screenshot
 
-![Screenshot](image/img)
+![Screenshot](image/img.png)
