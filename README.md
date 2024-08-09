@@ -1,3 +1,3 @@
 Form Screenshot
 
-![Screenshot](imagens/capturar.PNG)
+![Screenshot](imagens/capturar.png)
