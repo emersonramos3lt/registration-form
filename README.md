@@ -1,6 +1,6 @@
 # Form Screenshot
 
-![Screenshot](./image/img.PNG)
+![Screenshot](img.PNG)
 
 # Details
 
